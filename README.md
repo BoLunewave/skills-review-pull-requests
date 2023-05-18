@@ -17,10 +17,9 @@ _Collaborate and work together on GitHub._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
-
 <details id=0>
 <summary><h2>Welcome</h2></summary>
-
+test 3
 All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
 
 - **Who is this for**: Developers, new GitHub users, users new to Git, students, managers, teams.
@@ -192,8 +191,8 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-
-<details id=5>
+test 2
+<details id=5 open>
 <summary><h2>Step 5: Apply suggested changes</h2></summary>
 
 _Nicely done suggesting changes! :partying_face:_
