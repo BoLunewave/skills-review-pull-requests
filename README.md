@@ -17,7 +17,6 @@ _Collaborate and work together on GitHub._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
-test 4
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 test 3
@@ -216,7 +215,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Define terms and link to docs.github.com.
 -->
 
-<details id=6>
+<details id=6 open>
 <summary><h2>Step 6: Merge your pull request</h2></summary>
 
 _Almost there! :heart:_
